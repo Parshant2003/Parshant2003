@@ -1,6 +1,6 @@
 # Hi, I'm Parshant Bisht! 👋
 
-[![@rocky-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parshant2003&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![@rocky-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parshant2003&show_icons=true&theme=radical)](https://github.com/Parshant2003)
 
 **Aspiring Java Backend Developer | B.Tech CSE 2025 (9.04 CGPA)**  
 🔭 Currently building Spring Boot projects & learning DevOps  
